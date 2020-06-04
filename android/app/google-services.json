@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700709697980",
+    "firebase_url": "https://jchat-5bcc3.firebaseio.com",
+    "project_id": "jchat-5bcc3",
+    "storage_bucket": "jchat-5bcc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700709697980:android:866de19b7dc1a1f208d3b9",
+        "android_client_info": {
+          "package_name": "com.example.jchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700709697980-1v1ljnrp9svsk7s4kdj86o2oilr9d45l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgUxW6j5tANnrN0FAalDnSdaoz2YCZNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700709697980-1v1ljnrp9svsk7s4kdj86o2oilr9d45l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

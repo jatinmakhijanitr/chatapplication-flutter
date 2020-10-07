@@ -18,7 +18,7 @@ After you've installed all the required packages. Press:
 
 
 ~~~
-fn + f5
+fn + f5 (Visual Studio Code)
 ~~~
 
 then select your emulator to run the application.
